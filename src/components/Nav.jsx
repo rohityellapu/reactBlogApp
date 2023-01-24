@@ -8,7 +8,7 @@ function Nav() {
             <div className="links">
                 <ul>
                     <Link to='/'><li className='inline-block px-2'>Authors</li></Link>
-                    <Link to='/most-liked'><li className='inline-block px-2'>Most Liked</li></Link>
+                    <li className='inline-block px-2'>Most Liked</li>
                     <li className='inline-block px-2'>Most Commented</li>
                 </ul>
             </div>
